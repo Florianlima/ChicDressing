@@ -16,65 +16,55 @@ Text Domain:	 chicdressing
 /* Font family Kalam */
 @font-face {
     font-family: 'Kalam';
-    src: url('/themes/chicdressing/templates/fonts/Kalam/Kalam-Regular.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Kalam/Kalam-Regular.ttf') format('truetype');
 }
 
 /* Font family OpenSans */
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans-Regular.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans-Italic.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans-Italic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans-SemiBold.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans-SemiBoldItalic.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans-SemiBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans_Condensed-Bold.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans_Condensed-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('/themes/chicdressing/templates/fonts/Open-Sans/static/OpenSans_Condensed-BoldItalic.ttf') format('TrueStyle');
-    font-display: swap;
+    src: url('./templates/fonts/Open-Sans/static/OpenSans_Condensed-BoldItalic.ttf') format('truetype');
 }
 
 /* Font family Playfair */
 @font-face {
-    font-family: 'Playfair';
-    src: url('/themes/chicdressing/templates/fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf') format('TrueStyle');
-    font-display: swap;
+    font-family: 'Playfair Display';
+    src: url('./templates/fonts/PlayfairDisplay/static/PlayfairDisplayRegular.ttf') format('truetype');
 }
+
 @font-face {
-    font-family: 'Playfair';
-    src: url('/themes/chicdressing/templates/fonts/Playfair_Display/static/PlayfairDisplay-Bold.ttf') format('TrueStyle');
-    font-display: swap;
+    font-family: 'Playfair Display';
+    src: url('./templates/fonts/PlayfairDisplay/static/PlayfairDisplayBold.ttf') format('truetype');
 }
 
 /* Font family Rokkitt */
 @font-face {
     font-family: 'Rokkitt';
-    src: url('/themes/chicdressing/templates/fonts/rokkit/static/Rokkitt-Regular.ttf') format('TrueStyle');
-    font-display: swap;
-
+    src: url('/themes/chicdressing/templates/fonts/rokkit/static/Rokkitt-Regular.ttf') format('truetype');
 }
 
 
