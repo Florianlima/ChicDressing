@@ -79,6 +79,14 @@ body .page-content,
     font-size: 15px;
 }
 
+.post-date{
+    color: #050505 !important;
+}
+
+.rpwwt-post-categories{
+    color:#555353 !important;
+}
+
 
 body .header-logo a {
     color: white;
